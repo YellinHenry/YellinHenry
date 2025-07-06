@@ -7,7 +7,7 @@
 
 ---
 
-🛠️ <strong>Builder at heart</strong> — from Arduino-driven devices to custom PCBs to the occasional IKEA hack.
+🛠️ <strong>Always in the middle of a project</strong> — from Arduino-driven devices to custom PCBs to the occasional IKEA hack.
 
 🚀 <strong>Currently diving into:</strong>
 - 🔄 RF coil tuning, decoupling & impedance matching

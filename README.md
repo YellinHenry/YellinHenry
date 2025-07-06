@@ -27,7 +27,6 @@
 🔧 <strong>Tools & Platforms:</strong>  
 <span align="center">
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gerber-F57C00?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/PCB%20Milling-228B22?style=flat"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fusion360-1793D1?style=flat&logo=autodesk&logoColor=white"/>

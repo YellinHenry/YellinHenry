@@ -41,4 +41,4 @@
 
 ---
 
-🧩 <em>I believe in engineering that empowers — and in breaking things <strong>just enough</strong> to understand how to rebuild them better.</em>
+🧩 <em>I believe in engineering that can make a difference — and in breaking things <strong>just enough</strong> to understand how to rebuild them better.</em>
